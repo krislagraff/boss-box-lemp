@@ -87,13 +87,13 @@ cd boss-box-lamp
 Copy the 'vagrant' folder to your project web root
 
 ```bash
-cp -r vagrant/ /path/to/myproject/webroot/vagrant/
+cp -r vagrant/ /path/to/sites/
 ```
 
 Switch to the project vagrant directory
 
 ```bash
-cd ~/path/to/myproject/webroot/vagrant/
+cd ~/path/to/sites/
 ```
 
 Edit the settings.yaml file in the newly copied /path/to/myproject/webroot/vagrant/ directory as required.
